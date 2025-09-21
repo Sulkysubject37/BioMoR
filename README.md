@@ -6,7 +6,7 @@ Perfect! Based on your DESCRIPTION file for BioMoR, here’s a detailed, profess
 
 ---
 
-Installation
+## Installation
 
 Install the development version directly from GitHub:
 
@@ -18,6 +18,7 @@ Dependencies:
 	•	Imports: caret, recipes, themis, xgboost, magrittr, dplyr, pROC
 	•	Suggests: randomForest, testthat (>= 3.0.0), PRROC, ggplot2, purrr, tibble, yardstick, knitr, rmarkdown
 
+⸻
 
 Features
 	•	Recursive transformer-inspired architectures for complex bioinformatics datasets.
@@ -30,7 +31,7 @@ Features
 	•	Integration with caret, recipes, and themis for preprocessing and balanced modeling workflows.
 	•	Visualization and reporting using ggplot2, tibble, yardstick, knitr, and rmarkdown.
 
-
+⸻
 
 Example Usage
 
@@ -50,6 +51,7 @@ preds <- BioMoR::predict_ensemble(model, newdata = data)
 results <- BioMoR::benchmark_model(preds, true_labels = sample(0:1, 50, replace = TRUE))
 
 
+⸻
 
 Documentation
 
@@ -63,7 +65,7 @@ You can also generate vignettes:
 vignette("BioMoR")
 
 
-
+⸻
 
 Testing
 
@@ -73,19 +75,19 @@ library(testthat)
 test_package("BioMoR")
 
 
-
+⸻
 
 Contributing
 
 Contributions, bug reports, and feature requests are welcome. Please use GitHub Issues or submit pull requests: GitHub - BioMoR
 
-
+⸻
 
 License
 
 BioMoR is licensed under MIT License. See LICENSE for details.
 
-
+⸻
 
 Citation
 
@@ -94,7 +96,7 @@ If you use BioMoR in your research, please cite it as:
 MD. Arshad (2025). BioMoR: Bioinformatics Modeling with Recursion and Autoencoder-Based Ensemble. R package version 0.1.0.
 
 
-
+⸻
 
 Acknowledgements
 	•	Inspired by modern bioinformatics and machine learning approaches.
