@@ -1,5 +1,3 @@
-Perfect! Based on your DESCRIPTION file for BioMoR, here’s a detailed, professional README.md that reflects all the package functionality, dependencies, and purpose. This is more comprehensive than a standard README and can serve as the main GitHub and CRAN reference.
-
 # BioMoR
 
 **BioMoR** (Bioinformatics Modeling with Recursion and Autoencoder-Based Ensemble) is an R package for advanced bioinformatics predictive modeling. It provides tools for constructing recursive transformer-inspired architectures, autoencoders, random forests, XGBoost models, and stacked ensembles. BioMoR includes utilities for cross-validation, calibration, benchmarking, and threshold optimization in predictive modeling workflows.
