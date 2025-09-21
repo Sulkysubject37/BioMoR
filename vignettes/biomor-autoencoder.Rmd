@@ -1,0 +1,19 @@
+---
+
+# 📂 `vignettes/biomor-autoencoder.Rmd`
+
+Focus on embeddings.
+
+```markdown
+---
+title: "BioMoR Autoencoder and Embeddings"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{BioMoR Autoencoder}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+library(BioMoR)
+set.seed(99)

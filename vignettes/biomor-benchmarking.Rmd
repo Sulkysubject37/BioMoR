@@ -1,0 +1,19 @@
+---
+
+# 📂 `vignettes/biomor-benchmarking.Rmd`
+
+Detailed tutorial for benchmarking.
+
+```markdown
+---
+title: "BioMoR Benchmarking Tutorial"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{BioMoR Benchmarking}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+library(BioMoR)
+set.seed(123)

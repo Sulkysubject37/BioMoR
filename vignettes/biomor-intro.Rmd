@@ -1,0 +1,12 @@
+---
+title: "Introduction to BioMoR"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to BioMoR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+library(BioMoR)
+set.seed(42)
