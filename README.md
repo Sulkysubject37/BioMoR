@@ -91,7 +91,8 @@ Citation
 
 If you use BioMoR in your research, please cite it as:
 
-MD. Arshad (2025). BioMoR: Bioinformatics Modeling with Recursion and Autoencoder-Based Ensemble. R package version 0.1.0.
+MD. Arshad (2025). BioMoR: Bioinformatics Modeling with Recursion and Autoencoder-Based Ensemble. R package version 0.1.2
+https://doi.org/10.5281/zenodo.17927462
 
 
 ⸻
